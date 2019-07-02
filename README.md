@@ -1,1 +1,1 @@
-# terraform-docker-run-boot-blog
+Create a Digital Ocean droplet with Docker and Docker Compose installed automatically running a custom Docker container image from Docker hub with Nginx web server and Bootstrap Blog website template.
